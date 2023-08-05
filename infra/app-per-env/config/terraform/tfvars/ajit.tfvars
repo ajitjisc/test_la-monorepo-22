@@ -1,2 +1,2 @@
 env                       = "ajit"
-codebuild_settings_branch = "feature/den-468"
+codebuild_settings_branch = "den-test2"
